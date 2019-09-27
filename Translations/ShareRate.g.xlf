@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ShareRate">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2491344695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AB_Integration Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_Integration Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2491344695 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_Integration Setup - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2491344695 - Field 3951414661 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_Integration Setup - Field API URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2491344695 - Field 3166391077 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Token</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_Integration Setup - Field API Token - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2491344695 - Field 3583056686 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Rate function</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_Integration Setup - Field Last Rate function - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2491344695 - Field 3067391387 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Daily Rate Function</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_Integration Setup - Field Daily Rate Function - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2491344695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Integration Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AB_Integration Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2083620200 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Daily Rates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_DailyRates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2083620200 - Field 117987607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Symbols</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_DailyRates - Field Symbols - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2083620200 - Field 3027486986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rate Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_DailyRates - Field Rate Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2083620200 - Field 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_DailyRates - Field Open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2083620200 - Field 3116416530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>High</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_DailyRates - Field High - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2083620200 - Field 3592530208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Low</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_DailyRates - Field Low - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2083620200 - Field 2674503554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AB_DailyRates - Field Close - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2264050695 - NamedType 420700410" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service inaccessible</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AB_Alpha Vantage management - NamedType Text001_Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2264050695 - NamedType 3234760735" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The web service returned an error message:\ Status code: %1\ Description: %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AB_Alpha Vantage management - NamedType Text002_Err</note>
+        </trans-unit>
+        <trans-unit id="Page 3078553928 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Daily Rates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AB_Daily Rates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4017136928 - Action 1093387316 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AB_Customer Card - Action AB_GetRate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4017136928 - Action 3829747507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get DailyRate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AB_Customer Card - Action AB_GetDailyRate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3484119019 - Field 117987607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Symbols</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AB_Customer Extension - Field Symbols - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3484119019 - Field 2006937558 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stock rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AB_Customer Extension - Field Rate - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

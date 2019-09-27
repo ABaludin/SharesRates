@@ -1,0 +1,26 @@
+{
+  "id": "7bfe9b27-b319-4d7f-9da2-3c0ef773dd1b",
+  "name": "ShareRate",
+  "publisher": "Andrey Baludin",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "Directions.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "features": ["TranslationFile"],
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "3.2"
+}
