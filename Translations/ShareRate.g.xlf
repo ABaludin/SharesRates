@@ -88,22 +88,22 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AB_Daily Rates - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 4017136928 - Action 1093387316 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="PageExtension 4017136928 - Action 1093387316 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
           <source>Get Rate</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension AB_Customer Card - Action AB_GetRate - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 4017136928 - Action 3829747507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="PageExtension 4017136928 - Action 3829747507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
           <source>Get DailyRate</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension AB_Customer Card - Action AB_GetDailyRate - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 3484119019 - Field 117987607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Symbols</source>
+        <trans-unit id="TableExtension 3484119019 - Field 117987607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Ticket Symbols</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension AB_Customer Extension - Field Symbols - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 3484119019 - Field 2006937558 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="TableExtension 3484119019 - Field 2006937558 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
           <source>Stock rate</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension AB_Customer Extension - Field Rate - Property Caption</note>
