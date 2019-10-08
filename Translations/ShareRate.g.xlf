@@ -99,7 +99,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension AB_Customer Card - Action AB_GetDailyRate - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 3484119019 - Field 117987607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
-          <source>Ticket Symbols</source>
+          <source>Ticker Symbols</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension AB_Customer Extension - Field Symbols - Property Caption</note>
         </trans-unit>

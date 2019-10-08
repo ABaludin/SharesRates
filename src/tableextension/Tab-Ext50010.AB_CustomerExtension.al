@@ -4,7 +4,7 @@ tableextension 50010 "AB_Customer Extension" extends Customer
     {
         field(50000; "Symbols"; Code[10])
         {
-            Caption = 'Ticket Symbols';
+            Caption = 'Ticker Symbols';
             DataClassification = CustomerContent;
         }
         field(50001; "Rate"; Decimal)
