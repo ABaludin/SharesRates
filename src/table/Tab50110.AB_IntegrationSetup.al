@@ -1,4 +1,4 @@
-table 50010 "AB_Integration Setup"
+table 50110 "AB_Integration Setup"
 {
     Caption = 'AB_Integration Setup';
     DataClassification = CustomerContent;

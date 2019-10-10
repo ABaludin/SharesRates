@@ -1,4 +1,4 @@
-page 50010 "AB_Integration Setup"
+page 50110 "AB_Integration Setup"
 {
 
     PageType = Card;

@@ -1,4 +1,4 @@
-pageextension 50010 "AB_Customer Card" extends "Customer Card" //MyTargetPageId
+pageextension 50110 "AB_Customer Card" extends "Customer Card" //MyTargetPageId
 {
     layout
     {

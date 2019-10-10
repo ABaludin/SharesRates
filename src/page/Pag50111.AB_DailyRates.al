@@ -1,4 +1,4 @@
-page 50011 "AB_Daily Rates"
+page 50111 "AB_Daily Rates"
 {
 
     PageType = List;

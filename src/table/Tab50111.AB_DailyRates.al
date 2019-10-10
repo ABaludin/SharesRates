@@ -1,4 +1,4 @@
-table 50011 "AB_DailyRates"
+table 50111 "AB_DailyRates"
 {
     Caption = 'Daily Rates';
     DataClassification = CustomerContent;

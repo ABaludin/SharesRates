@@ -1,4 +1,4 @@
-codeunit 50010 "AB_Alpha Vantage management"
+codeunit 50110 "AB_Alpha Vantage management"
 {
     procedure GetLastRate(Symbols: code[10]): Decimal
     var
