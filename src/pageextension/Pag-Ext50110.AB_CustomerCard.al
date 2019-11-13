@@ -1,4 +1,4 @@
-pageextension 50110 "AB_Customer Card" extends "Customer Card" //MyTargetPageId
+pageextension 50110 "AB_Customer Card" extends "Customer Card"
 {
     layout
     {
@@ -42,11 +42,13 @@ pageextension 50110 "AB_Customer Card" extends "Customer Card" //MyTargetPageId
 
                 trigger OnAction()
                 var
+                    DailyRates: Record AB_DailyRates;
                     AlphaMgt: Codeunit "AB_Alpha Vantage management";
                 begin
                     TestField(Symbols);
                     AlphaMgt.GetDailyRates(Symbols);
-                    Page.Run(50011);
+                    DailyRates.SetRange(Symbols, Symbols);
+                    Page.Run(Page::"AB_Daily Rates", DailyRates);
                 end;
             }
         }

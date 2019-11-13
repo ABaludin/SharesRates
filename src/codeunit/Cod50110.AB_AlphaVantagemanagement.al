@@ -13,7 +13,7 @@ codeunit 50110 "AB_Alpha Vantage management"
         IntegrationSetup.TestField("API Token");
         IntegrationSetup.TestField("Last Rate function");
 
-        //https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=MMK&apikey=
+        //https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=MSFT&apikey=demo
 
         URL := IntegrationSetup."API URL" +
                 '?function=' + IntegrationSetup."Last Rate function" +
